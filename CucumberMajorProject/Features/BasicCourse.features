@@ -1,0 +1,6 @@
+@BasicCourse
+Feature: Verify the funtionality of Tatoc Basic Course
+Scenario: Verification of Basic course Link
+  Given Open the chrome and launch the browser
+  When Click on Basic Course Link
+  Then Open Basic Grid Gate page
